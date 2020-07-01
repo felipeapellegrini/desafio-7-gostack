@@ -30,7 +30,6 @@ export const Container = styled.div<ContainerProps>`
         &:hover {
           opacity: 0.6;
         }
-      }
     }
   }
 `;
